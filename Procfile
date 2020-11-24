@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* ntou.cs.HelloWorld
+web:    java -cp target/classes:target/dependency/* test.java.ntou.cs.SimpleTest
